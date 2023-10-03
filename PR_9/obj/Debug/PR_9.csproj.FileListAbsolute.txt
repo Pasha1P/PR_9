@@ -1,0 +1,8 @@
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_9\bin\Debug\PR_9.exe.config
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_9\bin\Debug\PR_9.exe
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_9\bin\Debug\PR_9.pdb
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_9\obj\Debug\PR_9.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_9\obj\Debug\PR_9.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_9\obj\Debug\PR_9.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_9\obj\Debug\PR_9.exe
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_9\obj\Debug\PR_9.pdb
